@@ -60,7 +60,7 @@ MEMORY-CARD
 
 ---
 
-# 👉 How to Play
+## 👉 How to Play
 
 Click on a card to earn a point.
 
@@ -72,7 +72,7 @@ Try to achieve the highest score possible!
 
 ---
 
-# 🔧 Local Setup
+## 🔧 Local Setup
 
 To run this project on your local machine, follow these steps:
 
